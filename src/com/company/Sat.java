@@ -11,7 +11,7 @@ public class Sat {
         sekunde = 0;
     }
 
-    public Sat(int h, int m, int s) {
+    public Sat(Integer h, Integer m, Integer s) {
         sati = h;
         minute = m;
         sekunde = s;
